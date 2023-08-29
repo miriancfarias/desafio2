@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
-    background-color: black;
-   
+       
   }
   #imagem_fundo {background: url(zeyn-afuang-9xp0AWvlGC4-unsplash.jpg);
     height: 100%;
@@ -35,12 +34,37 @@ padding-bottom: 10%;
     padding: 20px;
     margin: 0;
     background-color: rgb(63, 83, 77);
+    font-size: 30px;
     
     
   }
 
-  #introducao
+#introducao
 {background-color: rgb(133, 170, 158);
   text-align: center;
   padding: 20px;
+  font-size: 20px;
+}
+
+#objgeral
+{background-color: rgb(88, 105, 88);
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+.foto{
+  width: 100%;
+  background-size: cover;
+}
+.coluna1{
+  float: left;
+  padding: 0 5%;
+  position: relative;
+  width: 40%;
+  font-size: 20px;
+  
+}
+
+#verde{
+  background-color: rgb(63, 83, 77);  
 }
